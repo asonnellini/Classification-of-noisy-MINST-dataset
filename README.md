@@ -1,6 +1,6 @@
 # Classification-of-noisy-MINST-dataset
 
-This repository stores the analysis that I performed as part of the Assignment of the Artificial Neural Network class at DSTI Spring cohort 2020.
+This repository stores a [jupyter notebook](https://github.com/asonnellini/Classification-of-noisy-MINST-dataset/blob/main/Andrea%20Sonnellini%20-%20report%20ANN%20assignment.ipynb) with the analysis that I performed as part of the Assignment of the Artificial Neural Network class at DSTI Spring cohort 2020.
 
 The target of this assignment was to build and train a model to classify images stored in a given dataset.
 More specifically the images were a noisy version of the MINST dataset and the assignment gave us a dataset train.csv with labeled images and another dataset test.csv with unlabeled images.
