@@ -1,4 +1,4 @@
-# Classification-of-noisy-MINST-dataset
+# Classification-of-noisy-MNIST-dataset
 
 This repository stores a [jupyter notebook](https://github.com/asonnellini/Classification-of-noisy-MINST-dataset/blob/main/Andrea%20Sonnellini%20-%20report%20ANN%20assignment.ipynb) [(and a pdf version)](https://github.com/asonnellini/Classification-of-noisy-MINST-dataset/blob/main/Andrea%20Sonnellini%20-%20report%20ANN%20assignment.pdf) with the analysis that I performed as part of the Assignment of the Artificial Neural Network class at DSTI Spring cohort 2020.
 
